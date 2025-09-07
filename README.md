@@ -1,22 +1,11 @@
 # ✴️ Conteúdos
 
 - [📚 Biblioteca Pessoal de Livros](#1)
-    - [Livros & Autores](#1.2)
-  - [Quotes](#1.3)
 - [🏗️ Arquitetura & Estrutura do Projeto](#2)
-  - [Camada de Modelo](#2.1)
-  - [DAO](#2.2)
-  - [Service](#2.3)
-  - [Main/Controller](#2.4)
 - [✨ Estrutura de Pacotes](#3)
 - [🗄️ Modelo de Banco de Dados](#4)
-  - [Tabelas](#4.1)
-  - [Relacionamentos](#4.2)
 - [🚀 Começando](#5)
-  - [Pré-requisitos](#5.1)
-  - [Configuração](#5.2)
 - [📝 Uso](#6)
-  - [Menu](#6.1)
 - [📈 Roadmap & Funcionalidades Futuras](#7)
 - [📜 Licença](#8)
 ---
