@@ -6,8 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="1c96911f-f1bb-4c67-b102-c5378d5d5b31" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java/com/libraryapp/handler/LivroHandler.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java/com/libraryapp/main/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/backend/docker-compose.yml" beforeDir="false" afterPath="$PROJECT_DIR$/src/backend/docker-compose.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
